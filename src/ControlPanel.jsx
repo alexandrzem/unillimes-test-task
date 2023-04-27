@@ -110,7 +110,7 @@ const ControlPanel = ({
       marginRight:2,
       overflowY: "auto",
       border:'1px solid',
-      padding:2.5,
+      padding: 2.5,
       'input':{
         padding:'8px 6px',maxWidth:'100px'
       }
