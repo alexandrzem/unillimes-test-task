@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.379a59bd.css","mappings":"AAAA,gBAKE,eAAgB,CAFhB,WAAY,CACZ,QAEF","sources":["styles.css"],"sourcesContent":["html,\r\nbody,\r\n#root {\r\n  height: 100%;\r\n  margin: 0;\r\n  background: #fff;\r\n}"],"names":[],"sourceRoot":""}

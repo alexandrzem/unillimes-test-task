@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unilimes-test-task/static/css/main.379a59bd.css",
+    "main.js": "/unilimes-test-task/static/js/main.ce857784.js",
+    "index.html": "/unilimes-test-task/index.html",
+    "main.379a59bd.css.map": "/unilimes-test-task/static/css/main.379a59bd.css.map",
+    "main.ce857784.js.map": "/unilimes-test-task/static/js/main.ce857784.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.379a59bd.css",
+    "static/js/main.ce857784.js"
+  ]
+}
